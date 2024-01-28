@@ -4,6 +4,7 @@ Code for the paper Geography as Manifolds.
 
 ###Bibtex
 
+'''bibtex
 @misc{Geography as Manifolds,
   author={Hezhishi Jiang1, Liyan Xu, Tianshu Li, Zekun Chen, Yuxuan Wang, Hongmou Zhang, Yu Liu},
   title={Geography-as-Manifolds},
