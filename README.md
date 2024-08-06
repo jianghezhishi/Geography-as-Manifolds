@@ -1,5 +1,5 @@
 # Geography-as-Manifolds
-Code for the paper Geography as Manifolds.
+Code for the paper Geography as Manifolds. To reproduce the manifold patterns in this paper, please use version 0.22 of the sklearn library.
 ## Citing
 
 ### Bibtex
