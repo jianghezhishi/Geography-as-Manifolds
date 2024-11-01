@@ -5,8 +5,8 @@ Code for the paper Geography as Manifolds. To reproduce the manifold patterns in
 ### Bibtex
 
 ```bibtex
-@misc{Geography as Manifolds,
-  author= {Hezhishi Jiang1, Liyan Xu, Tianshu Li, Zekun Chen, Yuxuan Wang, Hongmou Zhang, Yu Liu},
+@misc{Geographic Space as Manifolds,
+  author= {Hezhishi Jiang, Liyan Xu, Tianshu Li, Zekun Chen, Yuxuan Wang, Hongmou Zhang, Yu Liu},
   title = {Geography-as-Manifolds},
   year = {2024},
   publisher = {GitHub},
